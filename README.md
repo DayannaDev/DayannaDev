@@ -1,7 +1,6 @@
-## Hi there 👋 
+## Hi there 👋 Soy Dayanna 
 
-<!--
-**DayannaDev/DayannaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DayannaDev/DayannaDev** is a ✨ _special_ ✨ E Estudiante de tecnologia y desarrollo web appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
