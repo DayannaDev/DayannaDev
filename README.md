@@ -1,6 +1,6 @@
 ## Hi there 👋 Soy Dayanna 
 
-**DayannaDev/DayannaDev** is a ✨ _special_ ✨  Estudiante de tecnologia y desarrollo web 
+**DayannaDev/DayannaDev** is a ✨Estudiante de tecnologia y desarrollo web✨
 
 🌸 Actualmente estoy iniciando mi camino en el desarrollo web, aprendiendo y fortaleciendo mis conocimientos en:
 
