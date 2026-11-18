@@ -2,7 +2,12 @@
 
 **DayannaDev/DayannaDev** is a ✨ _special_ ✨  Estudiante de tecnologia y desarrollo web 
 
-Here are some ideas to get you started:
+🌸 Actualmente estoy iniciando mi camino en el desarrollo web, aprendiendo y fortaleciendo mis conocimientos en:
+
+* HTML
+* CSS
+* JavaScript
+* Git y GitHub
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
