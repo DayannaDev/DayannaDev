@@ -1,6 +1,6 @@
 ## Hi there 👋 Soy Dayanna 
 
-**DayannaDev/DayannaDev** is a ✨ _special_ ✨ E Estudiante de tecnologia y desarrollo web appears on your GitHub profile.
+**DayannaDev/DayannaDev** is a ✨ _special_ ✨  Estudiante de tecnologia y desarrollo web 
 
 Here are some ideas to get you started:
 
